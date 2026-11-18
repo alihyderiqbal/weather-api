@@ -36,4 +36,12 @@ Response:
 ```
 
 ## Live Demo
-Coming soon
+## Live Demo
+
+The Weather API is deployed on Vercel and available online.
+
+**API Endpoint:**  
+https://weather-api-553q.vercel.app/
+
+**Interactive API Documentation (Swagger):**  
+https://weather-api-553q.vercel.app/docs
